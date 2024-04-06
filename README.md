@@ -1,28 +1,16 @@
-# Guide de Visite de la Spécialité en Génie
+# tp_8
 
-Ce projet est une application mobile développée en Flutter pour fournir un guide de visite de la spécialité en génie. L'application comprend diverses fonctionnalités telles que la vue d'ensemble de la spécialité, le catalogue des cours, l'annuaire des professeurs, le programme du cursus, ainsi que les événements et annonces liés à la spécialité.
+A new Flutter project.
 
-## Fonctionnalités
+## Getting Started
 
-- Vue d'ensemble de la Spécialité
-- Catalogue des Cours
-- Annuaire des Professeurs
-- Programme du Cursus
-- Événements et Annonces
+This project is a starting point for a Flutter application.
 
-## Utilisation
+A few resources to get you started if this is your first Flutter project:
 
-1. Clonez ce dépôt sur votre machine locale.
-2. Exécutez l'application sur un émulateur ou un appareil mobile connecté.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Contributions
-
-Les contributions sont les bienvenues ! 
-
-## Auteur
-
-Votre Nom - [Lien vers votre profil GitHub](lien_vers_votre_profil_github)
-
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
